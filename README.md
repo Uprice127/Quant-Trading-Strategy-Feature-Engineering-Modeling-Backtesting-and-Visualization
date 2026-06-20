@@ -1,0 +1,2 @@
+# Quant-Trading-Strategy-Feature-Engineering-Modeling-Backtesting-and-Visualization
+Quant Trading Strategy in Python  This notebook builds a complete trading strategy pipeline:  Data cleaning Feature engineering (SMA, RSI, MACD) Signal modeling (weighted decision model) Position sizing Backtesting (returns, Sharpe, drawdowns) Visualization   The goal is to demonstrate a full quant workflow and invite feedback from the community.
